@@ -27,7 +27,7 @@ int div (int a,int b)
 }	
 int main(int argc, char const *argv[])
 {
-	int a,b,c;
+	int a,b;
 	printf("Enter First number: ");
 	scanf("%d", &a);
 	printf("Enter Second number: ");
